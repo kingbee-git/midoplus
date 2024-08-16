@@ -15,5 +15,8 @@ dist/
 .DS_Store
 Thumbs.db
 
+# config
+.config/
+
 # env
 .env
